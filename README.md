@@ -5,7 +5,7 @@ You need to have ```gcc```, ```ncurses``` and ```make``` installed order to buil
 1. Clone this repo
 2. ```cd CursedType```
 4. ```make```
-5. Then, copy the binary ```CursedType``` on a folder that it is on your ```$PATH```
+5. Then, run the binary ```CursedType``` or copy it to a folder that it is on your ```$PATH```
 # Usage
 ```CursedType file```
 
